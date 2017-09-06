@@ -1,0 +1,22 @@
+{
+
+	"name": "Fernando Martinez",
+	"title": "FullStack Engineer",
+	"tagline": "With a knack for modular design",
+	"about1": "Hi, I'm Fernando, a highly motivated software engineer with more than six years of experience in programming. I'm a fan of a good challenge and I love clean, modern and minimal interfaces. Check out my work & experience.",
+	"about2": "In my free time, you can find me running, cycling or probably doing some crazy adrenaling-pumping activity. I'm also a hunter for cool travel destinations that I post on Tripkii.com.",
+	"jsStack": "JavaScript 85%",
+	"lampStack": "LAMP 75%",
+	"netStack": ".Net 85%",
+	"jobCurTitle": "FullStack Engineer - Tripkii (2015 => Present)",
+	"jobCurDesc": "Design, code and implement web applications for several projects using JAVASCRIPT, LAMP and .NET stacks. Engineer backend systems to support previously mentioned applications. Create, support and maintain EC2 instances in Amazon AWS for different stacks. Develop custom front-end HTML, CSS, Javascript & Wordpress sites. Configure domain names, email and hosting through several companies like Amazon, InMotion, NameCheap, GoDaddy. Communicate effectively with clients to deliver quality software projects.",
+	"jobPrevTitle": "Developer III - AIG-VALIC (2010 => 2015)",
+	"jobPrevDesc": "Analyze, code & develop web applications in .NET for projects in the range of 200-400k. Research & solve an average of 50+ IT problems for service request and production support of web applications on a weekly basis. Create test plans and flow charts for specific projects.",
+	"eduTitle": "Bachelor of Business Administration in MIS (2005 => 2010) ",
+	"college": "C.T. Bauer College of Business, University of Houston",
+	"para1": "In sed nibh metus. Cras feugiat ex non augue accumsan rhoncus. Nulla facilisi. Nulla facilisi. Nulla dolor sem, tincidunt sit amet tellus et, fringilla consectetur nibh. Vestibulum dignissim ipsum eu justo laoreet, eu consectetur nisl congue. Vivamus pulvinar aliquet lectus, vel vestibulum massa. Fusce luctus quam et magna imperdiet, eget aliquet nulla viverra.",
+	"para2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat dignissim consequat. Phasellus purus sem, tempor ut orci vel, semper pharetra libero. Donec nunc augue, pharetra vitae velit a, facilisis bibendum lectus. Fusce ac volutpat libero, at venenatis ligula. Suspendisse vel lectus ante. Curabitur ex odio, iaculis nec vehicula nec, condimentum suscipit velit. Aenean non maximus enim. Maecenas vitae egestas tellus.",
+	"themeTitle": "React Router Starter",
+	"includes": "Includes:",
+	"tools": "Babel, Rebass & Webpack with json loader for data"
+}
