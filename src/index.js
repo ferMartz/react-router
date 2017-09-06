@@ -22,11 +22,11 @@ class Ya extends Component {
 }
 
 render((
-  <BrowserRouter>
+  <HashRouter>
     <div>
       <Route exact path='/' component={main} />
       <Route path='/yo' component={Yo} />
       <Route path='/ya' component={Ya} />
     </div>
-  </BrowserRouter>
+  </HashRouter>
 ), document.getElementById('app'));
