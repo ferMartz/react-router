@@ -1,13 +1,13 @@
-# Rebassst
+# React Router
 
-Minimal React Starter based on [Rebass](https://github.com/jxnblk/rebass). 
+Minimal React Router Starter based on [Rebass](https://github.com/jxnblk/rebass). 
 
 
 
 http://fermartz.com/rebassst
 
 
-Rebassst is a minimal starter boilerplate that includes Babel, Webpack and Rebass.
+React Router Starter is a minimal starter boilerplate that includes Babel, Webpack and Rebass.
 
 ## Getting Started
 
